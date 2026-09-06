@@ -71,7 +71,7 @@ Os 10 computadores foram ligados a um switch, que funcionou como ponto central d
 A implementação permitiu compreender na prática como uma rede local é estruturada e como os switches permitem a comunicação entre diferentes dispositivos dentro da mesma rede.
 
 <p align="center">
-  <img src="imagens/topologia.png" alt="Topologia Small Office LAN" width="900">
+  <img src="Labs/pro1.pdf" alt="Topologia Small Office LAN" width="900">
 </p>
 
 ### Categoria 2: Endereçamento IPv4
